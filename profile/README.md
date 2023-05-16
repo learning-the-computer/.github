@@ -7,10 +7,9 @@ various computer programming challenges.
 
 ## 🧑‍💻 Who are we?
 
-We are a group of passionate programmers from different backgrounds and levels
-of experience, who are eager to improve our programming skills and enjoy the
-process of problem-solving. Whether you are a beginner or an experienced
-programmer, you are welcome to join us and contribute to the community.
+We are a group of passionate programmers (and learners) from different backgrounds and
+levels of experience, who are eager to improve our programming skills and enjoy the
+process of problem-solving. 
 
 ## 💻 What do we do?
 
