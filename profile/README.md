@@ -1,6 +1,6 @@
-# 🖥️ Learning the Computer
+# 🖥️ Learning the Computers
 
-Welcome to [Learning the Computer](https://github.com/learning-the-computer), 
+Welcome to [Learning the Computers](https://github.com/learning-the-computer), 
 a community of programmers who love to solve challenging problems together. 
 Our goal is to sharpen our skills and learn from each other as we tackle 
 various computer programming challenges.
